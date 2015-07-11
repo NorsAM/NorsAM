@@ -1,0 +1,35 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\Snake\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\Snake\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Snake\Snake\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Snake\Snake\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Snake\Snake\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Snake\Snake\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Snake\Snake\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Snake\Snake\obj\x86\Debug\Snake.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Snake\Snake\obj\x86\Debug\Snake.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Snake\Snake\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Snake\Snake\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\hp\Downloads\Новая папка (2)\Новая папка\Новая папка (2)\11\Новая папка\Snake\Snake\Snake\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\hp\Downloads\Новая папка (2)\Новая папка\Новая папка (2)\11\Новая папка\Snake\Snake\Snake\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\hp\Downloads\Новая папка (2)\Новая папка\Новая папка (2)\11\Новая папка\Snake\Snake\Snake\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\hp\Downloads\Новая папка (2)\Новая папка\Новая папка (2)\11\Новая папка\Snake\Snake\Snake\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\hp\Downloads\Новая папка (2)\Новая папка\Новая папка (2)\11\Новая папка\Snake\Snake\Snake\obj\x86\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\hp\Downloads\Новая папка (2)\Новая папка\Новая папка (2)\11\Новая папка\Snake\Snake\Snake\obj\x86\Debug\Snake.Form1.resources
+C:\Users\hp\Downloads\Новая папка (2)\Новая папка\Новая папка (2)\11\Новая папка\Snake\Snake\Snake\obj\x86\Debug\Snake.Properties.Resources.resources
+C:\Users\hp\Downloads\Новая папка (2)\Новая папка\Новая папка (2)\11\Новая папка\Snake\Snake\Snake\obj\x86\Debug\Snake.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\Snake\Snake\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\hp\Desktop\Snake\Snake\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\hp\Desktop\Snake\Snake\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\hp\Desktop\Snake\Snake\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\hp\Desktop\Snake\Snake\obj\x86\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Snake\Snake\obj\x86\Debug\Snake.Form1.resources
+C:\Users\hp\Desktop\Snake\Snake\obj\x86\Debug\Snake.Properties.Resources.resources
+C:\Users\hp\Desktop\Snake\Snake\obj\x86\Debug\Snake.csproj.GenerateResource.Cache
+F:\kursova\Snake\Snake\obj\x86\Debug\WindowsFormsApplication2.exe
+F:\kursova\Snake\Snake\obj\x86\Debug\WindowsFormsApplication2.pdb
+F:\kursova\Snake\Snake\bin\Debug\WindowsFormsApplication2.exe
+F:\kursova\Snake\Snake\bin\Debug\WindowsFormsApplication2.pdb
+F:\kursova\Snake\Snake\obj\x86\Debug\Snake.csprojResolveAssemblyReference.cache
+F:\kursova\Snake\Snake\obj\x86\Debug\Snake.Form1.resources
+F:\kursova\Snake\Snake\obj\x86\Debug\Snake.Properties.Resources.resources
+F:\kursova\Snake\Snake\obj\x86\Debug\Snake.csproj.GenerateResource.Cache
